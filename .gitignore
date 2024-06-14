@@ -132,8 +132,9 @@ dmypy.json
 # pyright type checker
 .pyright
 
-#mov
-.mov
-.mp4
+# Video files
+*.mov
+*.mp4
+*.mp3
 
 # End of https://www.toptal.com/developers/gitignore/api/python
